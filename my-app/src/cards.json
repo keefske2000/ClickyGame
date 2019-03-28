@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Black Lightning",
+      "image": "https://toddstevenburroughs.files.wordpress.com/2014/10/staticshock.gif",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Black Panther",
+      "image": "https://cdn11.bigcommerce.com/s-0kvv9/images/stencil/1280x1280/products/183102/263378/apivlst10__17324.1518209099.jpg?c=2&imbypass=on",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Batman",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81o3ownfaFL._SL1500_.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Superman",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2J1sPvJmlX8tAyRAkK4pDcykSKn5qfylKmiRGR6ANZdf3iPvoA",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Wonder Women",
+      "image": "https://cdn1.bigcommerce.com/n-ou1isn/ydriczk/products/88358/images/91112/Wonder-Woman-Official-DC-Comics-Mini-Cardboard-Cutout-buy-now-at-starstills__16412.1507220408.1280.1280.jpg?c=2",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Xmen Jane",
+      "image": "https://static.comicvine.com/uploads/original/1/14487/2307691-phoenix.jpg",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Super Women",
+      "image": "https://i.pinimg.com/originals/29/5a/dc/295adcdd3ad02d0efdf9a02c39503212.jpg",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Bat Women",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/3/3a/48d5f613e25348db268eae404121c27f.jpg/revision/latest?cb=20170825190121&path-prefix=protagonist",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Cyclops",
+      "image": "https://img00.deviantart.net/d671/i/2013/114/7/8/cyclops_coloring_by_kkfranca-d62wq15.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Hulk",
+      "image": "https://dumielauxepices.net/sites/default/files/hulk-clipart-cute-little-cartoon-644271-123864.jpg",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Spiderman",
+      "image": "https://i.pinimg.com/originals/df/a7/51/dfa751b7da758bda4bf7a994f5dd98a7.jpg",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Iron Man",
+      "image": "https://i.pinimg.com/originals/24/91/de/2491decae9783a44667e28a1a89ce906.jpg",
+      "count": 0
+    },
+    {
+      "id": 13,
+      "name": "Flash",
+      "image": "https://i.pinimg.com/originals/97/1e/ad/971ead983fb57b78300f12f105bcb5bc.jpg",
+      "count": 0
+    },
+    {
+      "id": 14,
+      "name": "Rogue",
+      "image": "https://cdnb.artstation.com/p/assets/images/images/012/872/565/large/amelia-vidal-rogue.jpg?1536935487",
+      "count": 0
+    },
+    {
+      "id": 15,
+      "name": "Captian America",
+      "image": "https://i.pinimg.com/originals/ec/b8/67/ecb867283a30f334f40d11de551f5f36.jpg",
+      "count": 0
+    },
+    {
+      "id": 16,
+      "name": "Wolverine",
+      "image": "https://requestreduce.org/images/marvel-wolverine-clipart-9.jpg",
+      "count": 0
+    }
+  ]
