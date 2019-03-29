@@ -7,6 +7,7 @@
   React.js with the following dependencies react, react-dom, react-scripts
 
   **Instructions**
+  
   1.The application renders different images to the screen. Each image listens for click events.
 
   2.The application keeps track of the user's score. The user's score is incremented when clicking an image for the first time. The user's score resets to 0 if they click the same image more than once.
