@@ -16,7 +16,7 @@
 
   4.Once the user's score is reset after an incorrect guess, the game restarts.
 
-**Github and Heroku links**
+**Github and Heroku linkshttps://github.com/keefske2000/ClickyGame.git or https://aqueous-peak-68199.herokuapp.com/**
 
 
 
